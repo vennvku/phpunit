@@ -1,0 +1,2 @@
+Alias phpunit
+  alias phpunit="./vendor/phpunit/phpunit/phpunit"
